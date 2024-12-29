@@ -1,0 +1,4 @@
+ttkthemes==3.2.2
+pystray==0.19.5
+pillow==10.1.0
+PyQt6
